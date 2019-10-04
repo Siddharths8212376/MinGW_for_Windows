@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-034-0694-59aeac">
+    <release tarname="gcc-c++-8.2.0-4-mingw32-man.tar.xz" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="share/man/man1/g++.1" />
+    </manifest>
+</package>
